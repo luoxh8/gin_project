@@ -1,0 +1,1 @@
+supervisorctl stop gin_project

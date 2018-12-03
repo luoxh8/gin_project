@@ -1,0 +1,1 @@
+supervisorctl reload gin_project
