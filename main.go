@@ -4,7 +4,7 @@ import (
 	"gin_project/core"
 	_ "gin_project/models"
 	_ "gin_project/routers"
-	`github.com/gin-gonic/gin`
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
